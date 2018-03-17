@@ -1,0 +1,16 @@
+config:
+  analyzerName: angular-analyzer
+  projects:
+    - uuid: 7ff5e449-5602-474b-9c71-8021877dc16c
+      name: Meet Alva
+      previewFrame: ../../dist/index.html
+      pages:
+        - uuid: 2fc9f33f-64d4-4a36-924f-f84a99e3dd3d
+          name: Homepage
+          path: ./meet-alva/homepage.yaml
+        - uuid: c401b2c1-3608-4bd6-8cce-36ab745c1351
+          name: Design Kit
+          path: ./meet-alva/design-kit.yaml
+        - uuid: d9585267-5fd7-4b8b-9fc7-e6ec8d348910
+          name: Playground
+          path: ./meet-alva/playground.yaml
